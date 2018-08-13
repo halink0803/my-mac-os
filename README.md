@@ -1,6 +1,7 @@
 # My wonderful MacOs
 My list of application and configuration for my macbook pro :D
-
+![desktop](https://i.imgur.com/kSgFIwD.png)
+*background image : [https://unsplash.com/photos/vRqcK5jydPg](https://unsplash.com/photos/vRqcK5jydPg)*
 
 Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboev/my-mac-os), I would love to make my own list. First for my personal purpose to go through and listing apps which I use, moreover, I would share my list for ones whom might see it is useful for them.
 
@@ -33,6 +34,7 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
             - [IINA](#iina)
         - [Utilities](#utilities)
             - [AppCleaner](#appcleaner)
+            - [Clibre](#clibre)
         - [Browsers](#browsers)
             - [Google Chrome](#google-chrome)
             - [Google Chrome Canary](#google-chrome-canary)
@@ -72,7 +74,7 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
 - Their bot [api](https://core.telegram.org/bots) is powerful
 ### Writing
 #### Macdown
-- [Macdown]() is a wonderful app for Mac which is perfectly clone from loved app Mou. However, Mou now is a paid software.
+- [Macdown](https://macdown.uranusjr.com/) is a wonderful app for Mac which is perfectly clone from loved app Mou. However, Mou now is a paid software.
 ![Macdown Screenshot](https://i.imgur.com/4RNAFU2.png)
 ### Design
 ### Music
@@ -85,11 +87,15 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
 #### VLC
 - [VLC](https://www.videolan.org/vlc/)
 #### IINA
-- [IINA](https://lhc70000.github.io/iina/)
+- [IINA](https://lhc70000.github.io/iina/) - beautiful video player which support many different video extensions
   ![iiNA](https://i.imgur.com/bVERUnQ.png)
 ### Utilities
 #### AppCleaner
-- [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [AppCleaner](https://freemacsoft.net/appcleaner/), this app is very useful for uninstalling app from your Mac. You will need to do that many times.
+  ![AppCleaner](https://i.imgur.com/EcfYjwQ.png)
+#### Clibre
+- [Calibre](https://calibre-ebook.com/) - very useful for reading, convert and edit your ebooks.
+![calibre](https://i.imgur.com/gFtwbtt.png)
 ### Browsers
 #### Google Chrome
 - [Chrome](https://www.google.com/chrome/)
