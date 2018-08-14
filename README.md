@@ -48,7 +48,14 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
 #### Trello
 - [Trello](https://trello.com/platforms)
 #### Dictionary
-- [Dictionary](https://developer.apple.com/documentation/swift/dictionary#//apple_ref/swift/struct/s:Vs10Dictionary)
+- [Dictionary](https://developer.apple.com/documentation/swift/dictionary#//apple_ref/swift/struct/s:Vs10Dictionary) 
+
+Dictionary on Mac can be access from spotlight search, which is very convenient. I use it all the time.
+
+![dictionary](https://i.imgur.com/UsHhY1N.png)
+
+*[Here](https://tinhte.vn/threads/tong-hop-tu-dien-cho-macos.2664045/) is Vietnamese instruction for adding Vietnamese-English dictionary*
+
 #### Transmission
 - [Transmission](https://transmissionbt.com/)
 ### Code
