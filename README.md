@@ -32,6 +32,7 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
         - [Video](#video)
             - [VLC](#vlc)
             - [IINA](#iina)
+            - [Davinci Resolve](#davinci-resolve)
         - [Utilities](#utilities)
             - [AppCleaner](#appcleaner)
             - [Clibre](#clibre)
@@ -96,6 +97,9 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 #### IINA
 - [IINA](https://lhc70000.github.io/iina/) - beautiful video player which support many different video extensions
   ![iiNA](https://i.imgur.com/bVERUnQ.png)
+#### Davinci Resolve
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - a great and free software for video editor.
+  ![davinci resolve](https://i.imgur.com/1WR4DWD.png)
 ### Utilities
 #### AppCleaner
 - [AppCleaner](https://freemacsoft.net/appcleaner/), this app is very useful for uninstalling app from your Mac. You will need to do that many times.
