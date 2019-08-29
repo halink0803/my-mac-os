@@ -110,6 +110,8 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 - [Calibre](https://calibre-ebook.com/) - very useful for reading, convert and edit your ebooks.
 ![calibre](https://i.imgur.com/gFtwbtt.png)
 ### Browsers
+#### Microsoft Edge (Chromnium version)
+- [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - since they release this version, I have set this as my default browser. First, because I don't want using too many product of a single company (like Goole). Moreover, Edge have better performance as I currently feels (and other online benchmark).
 #### Google Chrome
 - [Chrome](https://www.google.com/chrome/)
 #### Google Chrome Canary
