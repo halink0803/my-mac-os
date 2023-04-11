@@ -35,14 +35,16 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
       - [Davinci Resolve](#davinci-resolve)
     - [Utilities](#utilities)
       - [AppCleaner](#appcleaner)
-      - [Clibre](#clibre)
+      - [Calibre](#calibre)
     - [Browsers](#browsers)
+      - [Microsoft Edge (Chromnium version)](#microsoft-edge-chromnium-version)
       - [Google Chrome](#google-chrome)
       - [Google Chrome Canary](#google-chrome-canary)
       - [Firefox](#firefox)
     - [Password Manager](#password-manager)
       - [BitWarden](#bitwarden)
   - [Command Line Apps](#command-line-apps)
+    - [ncdu](#ncdu)
 
 
 ## Applications
@@ -100,27 +102,30 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 - [IINA](https://lhc70000.github.io/iina/) - beautiful video player which support many different video extensions
   ![iiNA](https://i.imgur.com/bVERUnQ.png)
 #### Davinci Resolve
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - a great and free software for video editor.
+> [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - a great and free software for video editor.
   ![davinci resolve](https://i.imgur.com/1WR4DWD.png)
 ### Utilities
 #### AppCleaner
-- [AppCleaner](https://freemacsoft.net/appcleaner/), this app is very useful for uninstalling app from your Mac. You will need to do that many times.
+> [AppCleaner](https://freemacsoft.net/appcleaner/), this app is very useful for uninstalling app from your Mac. You will need to do that many times.
   ![AppCleaner](https://i.imgur.com/EcfYjwQ.png)
-#### Clibre
-- [Calibre](https://calibre-ebook.com/) - very useful for reading, convert and edit your ebooks.
+#### Calibre
+>[Calibre](https://calibre-ebook.com/) - very useful for reading, convert and edit your ebooks.
 ![calibre](https://i.imgur.com/gFtwbtt.png)
 ### Browsers
 #### Microsoft Edge (Chromnium version)
-- [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - since they release this version, I have set this as my default browser. First, because I don't want using too many product of a single company (like Goole). Moreover, Edge have better performance as I currently feels (and other online benchmark).
+> [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - since they release this version, I have set this as my default browser. First, because I don't want using too many product of a single company (like Goole). Moreover, Edge have better performance as I currently feels (and other online benchmark).
 #### Google Chrome
-- [Chrome](https://www.google.com/chrome/)
+>  [Chrome](https://www.google.com/chrome/)
 #### Google Chrome Canary
-- [Chrome Canary](https://www.google.com/chrome/canary/)
+> [Chrome Canary](https://www.google.com/chrome/canary/)
 #### Firefox
-- [Firefox](https://www.mozilla.org/en-US/)
+> [Firefox](https://www.mozilla.org/en-US/)
 
 ### Password Manager
 #### BitWarden
-- [Bitwarden](https://bitwarden.com) - I found this is the best solution for password manager cause it is open source, having applications for almost every platforms
+> [Bitwarden](https://bitwarden.com) - I found this is the best solution for password manager cause it is open source, having applications for almost every platforms
 
 ## Command Line Apps
+### ncdu
+> ncdu is a commandline tool to check the disk storage usage. You can install `ncdu` using homebrew: `brew install ncdu`
+
