@@ -24,9 +24,13 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
       - [Telegram](#telegram)
     - [Writing](#writing)
       - [Macdown](#macdown)
+      - [Notion](#notion)
+      - [Obsidian](#obsidian)
     - [Design](#design)
+      - [Figma](#figma)
     - [Music](#music)
       - [Spotify](#spotify)
+      - [Youtube Music](#youtube-music)
     - [Images](#images)
       - [GIF Brewery](#gif-brewery)
     - [Video](#video)
@@ -38,6 +42,7 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
       - [Calibre](#calibre)
     - [Browsers](#browsers)
       - [Microsoft Edge (Chromnium version)](#microsoft-edge-chromnium-version)
+      - [Arc](#arc)
       - [Google Chrome](#google-chrome)
       - [Google Chrome Canary](#google-chrome-canary)
       - [Firefox](#firefox)
@@ -84,11 +89,20 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 - [Telegram](https://telegram.org/) is a messaging platform which is very light-weight and extremely fast
 - They allow custom sticker which is a lot
 - Their bot [api](https://core.telegram.org/bots) is powerful
+#### Zalo
 ### Writing
-#### Macdown
+#### Macdown - (Not support Appe Sillicon)
 - [Macdown](https://macdown.uranusjr.com/) is a wonderful app for Mac which is perfectly clone from loved app Mou. However, Mou now is a paid software.
 ![Macdown Screenshot](https://i.imgur.com/4RNAFU2.png)
+#### Notion
+- [Notion](https://notion.so)
+![Notion Screenshot]()
+#### Obsidian
+> [Obsidian]() is a great writing app that supports markdown and graph
 ### Design
+#### Figma
+- [Figma](https://figma.com)
+![Figma Screenshot]()
 ### Music
 #### Spotify
 - [Spotify](https://www.spotify.com/)
@@ -110,12 +124,12 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
   ![AppCleaner](https://i.imgur.com/EcfYjwQ.png)
 #### Calibre
 >[Calibre](https://calibre-ebook.com/) - very useful for reading, convert and edit your ebooks.
-![calibre](https://i.imgur.com/gFtwbtt.png)
+  ![calibre](https://i.imgur.com/gFtwbtt.png)
 ### Browsers
 #### Microsoft Edge (Chromnium version)
 > [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - since they release this version, I have set this as my default browser. First, because I don't want using too many product of a single company (like Goole). Moreover, Edge have better performance as I currently feels (and other online benchmark).
 #### Google Chrome
->  [Chrome](https://www.google.com/chrome/)
+> [Chrome](https://www.google.com/chrome/)
 #### Google Chrome Canary
 > [Chrome Canary](https://www.google.com/chrome/canary/)
 #### Firefox
@@ -127,5 +141,9 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 
 ## Command Line Apps
 ### ncdu
-> ncdu is a commandline tool to check the disk storage usage. You can install `ncdu` using homebrew: `brew install ncdu`
+> [ncdu](https://dev.yorhel.nl/ncdu) is a commandline tool to check the disk storage usage. You can install `ncdu` using homebrew: `brew install ncdu`
+
+### Programming Font
+> [Nerd Fonts](https://www.nerdfonts.com/)
+
 
