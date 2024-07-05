@@ -20,6 +20,7 @@ Insprired from [Nikita Voloboev wonderful list](https://github.com/nikitavoloboe
       - [Sublime Text 3](#sublime-text-3)
       - [Vim](#vim)
       - [Hyperjs - terminal emulator](#hyperjs---terminal-emulator)
+      - [Tabby](#tabby)
     - [Social](#social)
       - [Telegram](#telegram)
     - [Writing](#writing)
@@ -71,6 +72,11 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 ### Code
 #### Visual Studio Code
 - [Visual Studio Code](https://code.visualstudio.com/) is a powerful code editor. After using Golang and VS Code supports it fully, so VS Code becomes my most favorite code editor.
+Fix macos key repeating:
+```bash
+defaults write -g ApplePressAndHoldEnabled -bool false
+
+```
 - I use [Ayu](https://github.com/teabyii/vscode-ayu) theme for my VS Code
 ![vscode](https://i.imgur.com/2KTxUkV.png)
 #### Sublime Text 3
@@ -79,11 +85,16 @@ Dictionary on Mac can be access from spotlight search, which is very convenient.
 
 #### Vim
 - [Vim](https://github.com/vim/vim)
+  I prefer using [LazyVim](https://www.lazyvim.org/) for the macos
 
 #### Hyperjs - terminal emulator
 - [Hyperjs](https://hyper.is/) is a great terminal emulator with tons of [plugins](https://github.com/bnb/awesome-hyper) for both productivity and entertainment also.
 - I also use [Ayu](https://www.npmjs.com/package/hyper-ayu-mirage) theme for Hyper. (Actually I love this color scheme, if possible, I will use this theme everywhere)
 ![Hyperjs](https://i.imgur.com/hcugEgr.png)
+
+#### Tabby
+- [Tabby](https://tabby.sh/)
+  Open-source terminal emulator
 ### Social
 #### Telegram
 - [Telegram](https://telegram.org/) is a messaging platform which is very light-weight and extremely fast
