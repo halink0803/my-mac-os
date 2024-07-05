@@ -107,7 +107,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 ![Macdown Screenshot](https://i.imgur.com/4RNAFU2.png)
 #### Notion
 - [Notion](https://notion.so)
-![Notion Screenshot]()
+![Notion Screenshot](./screenshot/notion.png)
 #### Obsidian
 > [Obsidian]() is a great writing app that supports markdown and graph
 ### Design
