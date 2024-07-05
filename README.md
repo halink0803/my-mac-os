@@ -113,7 +113,6 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 ### Design
 #### Figma
 - [Figma](https://figma.com)
-![Figma Screenshot]()
 ### Music
 #### Spotify
 - [Spotify](https://www.spotify.com/)
